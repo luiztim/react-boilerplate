@@ -1,5 +1,5 @@
 # Descrição
-Boiler Plate para aplicações React Web (usando react-dom)
+Boiler Plate para aplicações React (usando react-dom)
 
 ## Instalação
 
