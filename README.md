@@ -31,3 +31,4 @@ Pelo terminal, na pasta do projeto digite
 yarn build
 ```
 
+O webpack vai gerar uma pasta <b>dist</b>, com todos os componentes da aplicação para instalar em produção
