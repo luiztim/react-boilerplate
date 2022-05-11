@@ -21,7 +21,7 @@ Pelo terminal, na pasta do projeto digite
 yarn dev
 ```
 
-O webpack vai subir um server e, a aplicação ficará disponível no localhost com auto-reload (geralmente é no localhost:8080 - porém, atente-se às mensagens do webpack no terminal)
+O webpack vai subir um server e, a aplicação ficará disponível no localhost com live-reload (geralmente é no localhost:8080 - porém, atente-se às mensagens do webpack no terminal)
 
 ## Build para produção
 
